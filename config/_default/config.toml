@@ -1,4 +1,4 @@
 baseURL = "https://stuinxo.pages.dev/"
 languageCode = "zh-cn"
 title = "stuinxo"
-theme = "ananke"
+theme = "hugo-blog-awesome"
